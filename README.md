@@ -33,7 +33,7 @@ Every major detector — GPTZero, Originality.ai, Turnitin, ZeroGPT, CopyLeaks, 
 
 ```bash
 # Clone into your Claude Code skills directory
-git clone https://github.com/YOUR_USERNAME/ghost-skill.git ~/.claude/skills/ghost
+git clone https://github.com/obreinx/ghost-skill.git ~/.claude/skills/ghost
 ```
 
 Or just copy `SKILL.md` into `~/.claude/skills/ghost/`.
